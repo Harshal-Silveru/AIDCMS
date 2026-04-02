@@ -7,7 +7,7 @@ const translations = {
         // Priority
         priority1: 'Kritik', priority2: 'Yüksek', priority3: 'Normal', priority4: 'Düşük', priority5: 'Minimal',
         // UI
-        title: 'Luva',
+        title: 'luva',
         sync: 'Senkronize Et',
         settings: 'Ayarlar',
         account: 'Hesap',
@@ -73,7 +73,7 @@ const translations = {
         progressClassifying: 'AI ile sınıflandırılıyor...',
         progressClassified: '✓ Mailler sınıflandırıldı',
         // Setup content
-        step1Content: '<ol><li><a href="https://console.cloud.google.com/projectcreate" target="_blank">Google Cloud Console</a>\'a git</li><li>Yeni proje oluştur (örn: "Luva")</li><li>Projeyi seç</li></ol>',
+        step1Content: '<ol><li><a href="https://console.cloud.google.com/projectcreate" target="_blank">Google Cloud Console</a>\'a git</li><li>Yeni proje oluştur (örn: "luva")</li><li>Projeyi seç</li></ol>',
         step2Content: '<ol><li><a href="https://console.cloud.google.com/apis/library/gmail.googleapis.com" target="_blank">Gmail API</a> sayfasına git</li><li>"Enable" tıkla</li></ol>',
         step3Content: '<ol><li><a href="https://console.cloud.google.com/apis/credentials/consent" target="_blank">OAuth Consent Screen</a>\'e git</li><li>"External" seç, "Create" tıkla</li><li>App name ve email bilgilerini gir</li><li>"Save and Continue" ile devam et</li><li>Test users\'a Gmail adresini ekle</li></ol>',
         step4Instructions: '<ol><li><a href="https://console.cloud.google.com/apis/credentials" target="_blank">Credentials</a>\'a git</li><li>"Create Credentials" > "OAuth client ID"</li><li><strong style="color:var(--accent-secondary);">Application type: "Desktop app"</strong> seç</li><li>"Create" tıkla, ID ve Secret\'ı kopyala</li></ol><div style="background:rgba(255,200,0,0.1);border:1px solid rgba(255,200,0,0.3);border-radius:8px;padding:12px;margin:16px 0;font-size:0.85rem;"><strong>Önemli:</strong> Mutlaka "Desktop app" seçin!</div>',
@@ -86,7 +86,7 @@ const translations = {
         // Priority
         priority1: 'Critical', priority2: 'High', priority3: 'Normal', priority4: 'Low', priority5: 'Minimal',
         // UI
-        title: 'Luva',
+        title: 'luva',
         sync: 'Sync',
         settings: 'Settings',
         account: 'Account',
@@ -152,7 +152,7 @@ const translations = {
         progressClassifying: 'Classifying with AI...',
         progressClassified: '✓ Emails classified',
         // Setup content
-        step1Content: '<ol><li>Go to <a href="https://console.cloud.google.com/projectcreate" target="_blank">Google Cloud Console</a></li><li>Create a new project (e.g., "Luva")</li><li>Select the project</li></ol>',
+        step1Content: '<ol><li>Go to <a href="https://console.cloud.google.com/projectcreate" target="_blank">Google Cloud Console</a></li><li>Create a new project (e.g., "luva")</li><li>Select the project</li></ol>',
         step2Content: '<ol><li>Go to <a href="https://console.cloud.google.com/apis/library/gmail.googleapis.com" target="_blank">Gmail API</a></li><li>Click "Enable"</li></ol>',
         step3Content: '<ol><li>Go to <a href="https://console.cloud.google.com/apis/credentials/consent" target="_blank">OAuth Consent Screen</a></li><li>Select "External", click "Create"</li><li>Enter app name and email</li><li>Click "Save and Continue"</li><li>Add your Gmail to Test users</li></ol>',
         step4Instructions: '<ol><li>Go to <a href="https://console.cloud.google.com/apis/credentials" target="_blank">Credentials</a></li><li>"Create Credentials" > "OAuth client ID"</li><li><strong style="color:var(--accent-secondary);">Application type: "Desktop app"</strong></li><li>Click "Create", copy ID and Secret</li></ol><div style="background:rgba(255,200,0,0.1);border:1px solid rgba(255,200,0,0.3);border-radius:8px;padding:12px;margin:16px 0;font-size:0.85rem;"><strong>Important:</strong> Must select "Desktop app"!</div>',

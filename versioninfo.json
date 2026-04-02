@@ -20,13 +20,13 @@
   },
   "StringFileInfo": {
     "Comments": "Gmail AI Classifier",
-    "CompanyName": "Luva",
-    "FileDescription": "Luva - Gmail AI Classifier",
+    "CompanyName": "luva",
+    "FileDescription": "luva - Gmail AI Classifier",
     "FileVersion": "v1.0.0",
     "InternalName": "luva",
     "LegalCopyright": "MIT License",
     "OriginalFilename": "luva.exe",
-    "ProductName": "Luva",
+    "ProductName": "luva",
     "ProductVersion": "v1.0.0"
   },
   "VarFileInfo": {
