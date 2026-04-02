@@ -1,4 +1,4 @@
-# luva - AI Digital Clutter Management System
+# AIDCMS - AI Digital Clutter Management System
 
 Developed by Harshal Silveru
 
