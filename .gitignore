@@ -1,24 +1,4 @@
-# Secrets
-.env
-token.json
-client.json
-
-# Cache
+venv/
 __pycache__/
+.env
 *.pyc
-emails_cache.json
-
-# Build
-*.exe
-*.exe~
-
-# IDE
-.vscode/
-.idea/
-
-# Temp
-last_check.txt
-settings.json
-
-# Workflows/docs
-workflows/
